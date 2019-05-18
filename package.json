@@ -1,0 +1,26 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "This is the Node.js workshop with nodegirls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deedeeh/express-workshop.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Dina Hafez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deedeeh/express-workshop/issues"
+  },
+  "homepage": "https://github.com/deedeeh/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
